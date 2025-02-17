@@ -54,7 +54,7 @@ nav ul li a {
 
 
 .sec-1 {
-    background: url('/images/Rectangle 4.png') no-repeat center center/cover;
+    background: url('./images/Rectangle 4.png') no-repeat center center/cover;
     width: 1600px;
     height: 694px;
     display: flex;
